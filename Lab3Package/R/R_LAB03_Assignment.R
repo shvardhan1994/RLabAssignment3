@@ -1,3 +1,8 @@
+#' @param a,b as input parameters.
+#' @export
+
+
+
 euclidean <- function(a,b){
 i <- max(a,b)
 j <- min(a,b)
