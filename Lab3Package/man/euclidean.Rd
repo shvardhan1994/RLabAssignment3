@@ -16,6 +16,6 @@ Returns the GCD of given two inputs and the output is an integer.
 Find the GCD of two given integers using Euclidean Algorithm.
 }
 \examples{
-euclidean(123612, 13892347912) 
+euclidean(123612, 13892347912)
 euclidean(100, 1000)
 }
