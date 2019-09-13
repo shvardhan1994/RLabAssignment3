@@ -1,1 +1,10 @@
-sdfbsdfhsdgfhj
+Package: Lab3Package
+Type: Package
+Title: Finds the Greatest Common Divisor of two given numbers.
+Version: 1.0
+Date: 2019-09-13
+Author: Harshavardhan Subramanian
+Maintainer: Harshavardhan Subramanian <shvardhan1994@gmail.com>
+Description: Finds the Greatest Common Divisor of two given numbers using Euculidean Algorithm.
+License: MIT
+RoxygenNote: 6.1.1
