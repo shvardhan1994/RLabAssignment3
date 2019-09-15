@@ -8,3 +8,5 @@ Maintainer: Harshavardhan Subramanian <shvardhan1994@gmail.com>
 Description: Finds the Greatest Common Divisor of two given numbers using Euculidean Algorithm.
 License: MIT
 RoxygenNote: 6.1.1
+Suggests: 
+    testthat
