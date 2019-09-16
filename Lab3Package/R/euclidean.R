@@ -1,5 +1,5 @@
 #' Find the GCD of two given integers using Euclidean Algorithm.
-#' @param Takes two input parameters to find GCD.
+#' @param a,b Two input parameters to find GCD.
 #' @examples 
 #' euclidean(123612, 13892347912)
 #' euclidean(100, 1000)

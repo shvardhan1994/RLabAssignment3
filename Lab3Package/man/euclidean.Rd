@@ -7,7 +7,7 @@
 euclidean(a, b)
 }
 \arguments{
-\item{Takes}{two input parameters to find GCD.}
+\item{a, b}{Two input parameters to find GCD.}
 }
 \value{
 Returns the GCD of given two inputs and the output is an integer.
