@@ -1,11 +1,13 @@
 Package: Lab3Package
 Type: Package
-Title: Finds the Greatest Common Divisor of two given numbers.
+Title: Euclidean Algorithm to find GCD and Dijkstra's Algorithm to find shortest path. 
 Version: 1.0
 Date: 2019-09-13
 Author: Harshavardhan Subramanian
 Maintainer: Harshavardhan Subramanian <shvardhan1994@gmail.com>
-Description: Finds the Greatest Common Divisor of two given numbers using Euculidean Algorithm.
+Description: 
+1. The first function finds the Greatest Common Divisor of two given numbers using Euculidean Algorithm.
+2. The second function calculates the shortest path from the initial node to every other node in the graph using Dijkstra's Algorithm.
 License: MIT
 RoxygenNote: 6.1.1
 Suggests: 
