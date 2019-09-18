@@ -7,6 +7,7 @@ Author: Harshavardhan Subramanian
 Maintainer: Harshavardhan Subramanian <shvardhan1994@gmail.com>
 Description: The first function finds the Greatest Common Divisor of two given numbers using Euculidean Algorithm.The second function calculates the shortest path from the initial node to every other node in the graph using Dijkstra's Algorithm.
 License: MIT + file LICENSE
+Depends: R (>= 2.10)
 RoxygenNote: 6.1.1
 Suggests: 
     testthat
