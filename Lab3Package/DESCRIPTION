@@ -3,8 +3,8 @@ Type: Package
 Title: Euclidean Algorithm to find GCD and Dijkstra's Algorithm to find shortest path 
 Version: 1.0
 Date: 2019-09-13
-Author: Harshavardhan Subramanian
-Maintainer: Harshavardhan Subramanian <shvardhan1994@gmail.com>
+Author: Harshavardhan Subramanian and Karthikeyan Devarajan
+Maintainer: Harshavardhan Subramanian <shvardhan1994@gmail.com> Karthikeyan Devarajan <karthi.kumar78@gmail.com> 
 Description: The first function finds the Greatest Common Divisor of two given numbers using Euculidean Algorithm.The second function calculates the shortest path from the initial node to every other node in the graph using Dijkstra's Algorithm.
 License: MIT + file LICENSE
 Depends: R (>= 2.10)
